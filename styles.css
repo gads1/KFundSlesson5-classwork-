@@ -21,9 +21,29 @@ table {
 }
 
 td {
-    margin: 25px;
+    padding: 25px;
 }
 
-tr {
-    border-left: 2px solid #000;
+.yellow {
+    border-left: 3px solid yellow;
+}
+
+.green {
+    border-left: 3px solid green;
+}
+
+.purple {
+    border-left: 3px solid purple;
+}
+
+.gray {
+    border-left: 3px solid gray;
+}
+
+.orange {
+    border-left: 3px solid orange;
+}
+
+.dark-blue {
+    border-left: 3px solid rgba(0, 0, 255, 0.5);
 }
